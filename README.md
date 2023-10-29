@@ -4,7 +4,6 @@ The fontend code was developed in [ReactJS typescript](https://react.dev/learn/t
 
 ## To run this project
 
-#clone this repo
 Clone this repo
 ```
 git clone https://github.com/leandrorsant/typescript-buzzfeed-clone
