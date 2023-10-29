@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `Screenshots`
-[screenshot1](https://raw.githubusercontent.com/leandrorsant/typescript-buzzfeed-clone/master/screenshots/typescript-buzzfeed-clone-screenshot1.png)
+<img src='https://raw.githubusercontent.com/leandrorsant/typescript-buzzfeed-clone/master/screenshots/typescript-buzzfeed-clone-screenshot1.png' />
