@@ -3,9 +3,12 @@ The fontend code was developed in [ReactJS typescript](https://react.dev/learn/t
 [Datastax](https://www.datastax.com/).
 
 ## To run this project
+
+#clone this repo
 ```
 #clone this repo
 git clone https://github.com/leandrorsant/typescript-buzzfeed-clone
+```
 
 #navigate to the newly created project folder
 cd typescript-buzzfeed-clone
