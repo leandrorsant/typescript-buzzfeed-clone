@@ -5,47 +5,30 @@ The fontend code was developed in [ReactJS typescript](https://react.dev/learn/t
 ## To run this project
 
 #clone this repo
+Clone this repo
 ```
-#clone this repo
 git clone https://github.com/leandrorsant/typescript-buzzfeed-clone
 ```
 
-#navigate to the newly created project folder
+Navigate to the newly created project folder
+```
 cd typescript-buzzfeed-clone
-
-#install dependencies
-npm i
-
-#start server
-npm run start:backend
-
-#start frontend
-npm run start:frontend
 ```
 
+Install dependencies
+```
+npm i
+```
 
-### `npm start`
+Start server
+```
+npm run start:backend
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start frontend
+```
+npm run start:frontend
+```
 
 ### `Screenshots`
 <img src='https://raw.githubusercontent.com/leandrorsant/typescript-buzzfeed-clone/master/screenshots/typescript-buzzfeed-clone-screenshot1.png' />
