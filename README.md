@@ -1,5 +1,5 @@
 # About this project
-The fontend code was developed in [ReactJS typescript](https://react.dev/learn/typescript) and the backend is API which fetches json data from a database hosted at
+The fontend code was developed in [typescript](https://react.dev/learn/typescript) and the backend is API which fetches json data from a database hosted at
 [Datastax](https://www.datastax.com/).
 
 ## To run this project
