@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# About this project
+The fontend code was developed in [ReactJS typescript](https://react.dev/learn/typescript) and the backend is API which fetches json data from a database hosted at
+[Datastax](https://www.datastax.com/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To run this project
+```
+git clone https://github.com/leandrorsant/typescript-buzzfeed-clone
+cd typescript-buzzfeed-clone
+npm i
+npm run start:backend
+npm run start:frontend
+```
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
